@@ -10,6 +10,8 @@
   "author": "Takechy",
   "license": "MIT",
   "dependencies": {
+    "@gltf-transform/cli": "^3.4.3",
+    "@gltf-transform/core": "^3.4.3",
     "dotenv": "^16.0.3",
     "ts-node": "^10.9.1"
   }
